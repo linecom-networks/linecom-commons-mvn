@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.linecom</groupId>
+  <artifactId>linecom-springboot-security</artifactId>
+  <versioning>
+    <release>0.1.0</release>
+    <versions>
+      <version>0.1.0</version>
+    </versions>
+    <lastUpdated>20180420115317</lastUpdated>
+  </versioning>
+</metadata>
