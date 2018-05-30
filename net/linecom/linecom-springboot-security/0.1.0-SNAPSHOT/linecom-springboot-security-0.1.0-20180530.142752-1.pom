@@ -86,7 +86,7 @@
 					<includes>
 						<include>**/*</include>
 					</includes>
-					<repositoryName>linecom-springboot-security-mvn</repositoryName>      <!-- github repo name -->
+					<repositoryName>linecom-commons-mvn</repositoryName>      <!-- github repo name -->
 					<repositoryOwner>linecom-networks</repositoryOwner>    <!-- github username -->
 				</configuration>
 				<executions>
